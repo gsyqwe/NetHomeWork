@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\net_First\compent\bin\Debug\compent.dll
+C:\Users\Administrator\Desktop\net_First\compent\bin\Debug\compent.pdb
+C:\Users\Administrator\Desktop\net_First\compent\obj\Debug\compent.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\net_First\compent\obj\Debug\compent.dll
+C:\Users\Administrator\Desktop\net_First\compent\obj\Debug\compent.pdb

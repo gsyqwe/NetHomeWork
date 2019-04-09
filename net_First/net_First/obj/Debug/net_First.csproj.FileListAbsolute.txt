@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\net_First\net_First\bin\Debug\net_First.exe.config
+C:\Users\Administrator\Desktop\net_First\net_First\bin\Debug\net_First.exe
+C:\Users\Administrator\Desktop\net_First\net_First\bin\Debug\net_First.pdb
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.Form1.resources
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.Properties.Resources.resources
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.exe
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.pdb
+C:\Users\Administrator\Desktop\net_First\net_First\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\net_First\net_First\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\net_First\net_First\obj\Debug\net_First.csproj.ResolveComReference.cache

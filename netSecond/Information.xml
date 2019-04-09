@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Infomation>
+  <ID>001<Name>Choi</Name><Age>21</Age><Gender>Male</Gender><City>GuiLin</City></ID>
+  <ID>002<Name>Li</Name><Age>18</Age><Gender>Female</Gender><City>Shanghai</City></ID>
+  <ID>003<Name>Xu</Name><Age>28</Age><Gender>Male</Gender><City>Beijing</City></ID>
+  <ID>004<Name>Xi</Name><Age>19</Age><Gender>Male</Gender><City>Hongkong</City></ID>
+</Infomation>
